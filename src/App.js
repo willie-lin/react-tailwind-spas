@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+<<<<<<< HEAD
 function App() {
   return (
     <div className="App">
@@ -18,6 +19,16 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+import Navbar from './components/Navbar'
+
+
+
+function App() {
+  return (
+    <div>
+      <Navbar />
+>>>>>>> a3c69a4 (Initialize project using Create React App)
     </div>
   );
 }

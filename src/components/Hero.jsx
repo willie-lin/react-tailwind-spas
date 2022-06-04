@@ -12,10 +12,10 @@ const Hero = () => {
                     Grow with data.
                 </h1>
                 <div className='flex justify-center items-center'>
-                    <p className='md:text-5xl sm:text-4xl text-xl font-bold'>
+                    <p className='md:text-5xl sm:text-4xl text-xl font-bold py-4'>
                         Fast, flexible financing for
                     </p>
-                    <Typed className='md:text-5xl sm:text-4xl text-xl font-bold pl-2'
+                    <Typed className='md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2'
                        strings={['BTB','BTC','SAAS']}
                        typeSpeed={120}
                        backSpeed={140}

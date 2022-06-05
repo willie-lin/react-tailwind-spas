@@ -15,7 +15,6 @@ const Analytics = () => {
                         dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
                         eveniet ex deserunt fuga?
                     </p>
-                    <p>你是大笨蛋</p>
                     <button className='bg-black text-[#00df9a]  w-[200px] rounded-md font-medium my-6 mx-auto py-3 md:mx-0'>Get Started</button>
                 </div>
             </div>
